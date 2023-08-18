@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mongodb, Database,Docker, Mobx , Node.js , Express , GraphQL ,**
 
-- 📄 Know about my experiences [6 months](6 months)
+- 📄 Know about my experiences (7 months)
 
 - ⚡ Fun fact **I am Funny**
 
