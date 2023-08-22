@@ -24,6 +24,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samzafar26&show_icons=true&locale=en" alt="samzafar26" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samzafar26&" alt="samzafar26" /></p>
