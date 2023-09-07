@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samzafar26&label=Profile%20views&color=0e75b6&style=flat" alt="samzafar26" /> </p>
 - 🔭 I’m currently working on **Genius Fixers, Genius Auto Trans Next.JS**
 
-- 🌱 I’m currently learning **Mongodb, Database,Docker, Mobx, Node.js, Express, GraphQL, Nuxt.js, Blockchain **
+- 🌱 I’m currently learning **Mongodb, Database, Docker, Mobx, Node.js, Express, GraphQL, Nuxt.js, Blockchain **
 
 - 📄 Know about my experiences (7 months)
 
