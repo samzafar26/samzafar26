@@ -1,4 +1,4 @@
-!(![image](https://github.com/samzafar26/samzafar26/assets/133894224/e3ea06a9-151e-44d3-b4df-1bb2fbbaff3c)
+![image](github-contribution-grid-snake2.svg)
 
 <h1 align="center">Hi 👋, I'm Sam Zafar</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan </h3>
