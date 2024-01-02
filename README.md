@@ -4,7 +4,6 @@
 <h3 align="center">A Passionate Frontend Developer from Pakistan </h3>
 
 
-
 - 🔭 I’m currently working on **Genius Fixers, Genius Auto Trans Next.JS**
 
 - 🌱 I’m currently learning **Mongodb, Database, Docker, Mobx, Node.js, Express, GraphQL, Nuxt.js, Blockchain **
