@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sam Zafar</h1>
 <h3 align="center">A Passionate Frontend Developer from Pakistan </h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="left"> <img src="![image](https://github.com/samzafar26/samzafar26/assets/133894224/0734bb5e-b1a7-40d5-8893-d4cc663a8dd5)
-" alt="samzafar26" /> </p>
+
 - 🔭 I’m currently working on **Genius Fixers, Genius Auto Trans Next.JS**
 
 - 🌱 I’m currently learning **Mongodb, Database, Docker, Mobx, Node.js, Express, GraphQL, Nuxt.js, Blockchain **
