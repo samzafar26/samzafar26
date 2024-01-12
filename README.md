@@ -1,6 +1,11 @@
 ![image](github-contribution-grid-snake2.svg)
 
 <h1 align="center">Hi 👋, I'm Sam Zafar</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samzafar26&label=Profile%20views&color=0e75b6&style=flat" alt="samzafar26" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samzafar26" alt="samzafar26" /></a> </p>
+
+<p align="left"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="center">A Passionate Frontend Developer from Pakistan </h3>
 
 
@@ -28,6 +33,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samzafar26&show_icons=true&locale=en&layout=compact" alt="samzafar26" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samzafar26&show_icons=true&locale=en" alt="samzafar26" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samzafar26&" alt="samzafar26" /></p>
+
 
 
 
