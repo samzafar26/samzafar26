@@ -21,8 +21,8 @@
 <p align="left">
 
 <a href="https://fb.com/samzafar68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samzafar68" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/sam-zafar" target="blank"><img align="center" target-blank src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sam-zafar" height="30" width="40" /></a>
-<img align="center" target-blank src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samzafar68" height="30" width="40" />
+<a href="https://linkedin.com/in/linkedin.com/in/sam-zafar" target="blank"><img align="center" target="blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sam-zafar" height="30" width="40" /></a>
+<img align="center" target="blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samzafar68" height="30" width="40" />
 </a>
 </p>
 
