@@ -1,7 +1,7 @@
 ![image](github-contribution-grid-snake2.svg)
 
 <h1 align="center">Hi 👋, I'm Sam Zafar</h1>
-<h2 align="center">A Passionate Frontend Developer from Pakistan </h2>
+<h2 align="center">A Passionate Frontend Developer from Pakistan</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samzafar26&label=Profile%20views&color=0e75b6&style=flat" alt="samzafar26" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samzafar26" alt="samzafar26" /></a> </p>
@@ -10,11 +10,11 @@
 
 
 
-- 🔭 I’m currently working on **Genius Fixers, Genius Auto Trans Next.JS**
+- 🔭 I’m currently working on **Genius Fixers, Genius Auto Trans Next.JS **
 
 - 🌱 I’m currently learning **Mongodb, Database, Docker, Mobx, Node.js, Express, GraphQL, Nuxt.js. **
 
-- 📄 Know about my Experiences (11 + months)
+- 📄 Know about my Experiences (8 months +)
 
 - ⚡ Fun fact **I am Funny**
 <h3 align="left">Connect with me:</h3>
