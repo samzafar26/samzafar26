@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on **Genius Fixers React JS,<p align="left"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge](https://media.licdn.com/dms/image/C4E0BAQE6LFGNCJeSxg/company-logo_200_200/0/1678912812931/geniusfixers_logo?e=2147483647&v=beta&t=RErMTe_1Dr39oh-cRknMAq6sgFO6idnLy8Z-3PjPWa0)" alt="" /></a> </p> Genius Auto Trans Next.JS, Genius Packaging Next.JS**
+- 🔭 I’m currently working on **Genius Fixers React JS, Genius Auto Trans Next.JS, Genius Packaging Next.JS**
 
 - 🌱 I’m currently learning **Mongodb, Database, Docker, Mobx, Node.js, Express, GraphQL, Nuxt.js. **
 
