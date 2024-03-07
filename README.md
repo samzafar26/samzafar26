@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Genius Fixers React JS, Genius Auto Trans Next.JS, Genius Packaging Next.JS**
 
-- 🌱 I’m currently learning **Mongodb, Database, Docker, Mobx, Node.js, Express, GraphQL, Nuxt.js. **
+- 🌱 I’m currently learning **Mongodb, Database, Docker, Mobx, Node.js, Express, GraphQL, Nuxt.js.**
 
 - 📄 Know about my Experiences (8 months +)
 
