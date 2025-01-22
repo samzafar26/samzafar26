@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Mongodb, Database, Docker, Mobx, Node.js, Express, GraphQL, Nuxt.js.**
 
-- 📄 Know about my Experiences (8 months +)
+- 📄 Know about my Experiences (13 months +)
 
 - ⚡ Fun fact **I am Funny**
 - 😎 Hobby **Cricket, Coding, Learning**
